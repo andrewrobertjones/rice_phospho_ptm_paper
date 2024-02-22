@@ -1,0 +1,5 @@
+D:/Dropbox/DocStore/ProteomicsSoftware/PTMExchange/Rice_build/Missing_rice_SNPs_2023_5.txt
+D:/Dropbox/DocStore/ProteomicsSoftware/PTMExchange/Rice_build/missing_SNPs_Jan2023/
+threads=10
+D:/Git/RiceDatabases/Genes-3K-Base-CSV-20211130T093248Z-001/Genes-3K-Base-CSV/
+D:/Git/RiceDatabases/
