@@ -3,9 +3,9 @@ Analysis of SNPs and PTMs for rice
 
 Setup.
 
-Need to download zip file from a) https://drive.google.com/file/d/1ibemgNFD_2tT2rRUfxcRU51ZGnRN12ij/view?usp=sharing and
-b) 
-. 
+Need to download zip file from a) https://drive.google.com/file/d/1ibemgNFD_2tT2rRUfxcRU51ZGnRN12ij and
+b) https://drive.google.com/file/d/1i-VKyKe3UqCTDrRUreB3iMqJJp1A6BuF.
+
 These need to be unzipped and referenced following style in run_details.txt.
 
 This reads run_details.txt, which has five parameters:
@@ -18,7 +18,6 @@ This reads run_details.txt, which has five parameters:
 The primary run for the code is done via CreateProteinAlignmentFromSNPSeek.py
 
 The input file should have one RAP-DB or MSU transcript identifier per line, like this:
-
 
 Os05t0392300-02
 Os07t0694000-01
